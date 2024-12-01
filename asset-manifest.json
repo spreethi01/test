@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/spreethi01/test.git/static/css/main.38f567a4.css",
-    "main.js": "/spreethi01/test.git/static/js/main.f472b7ac.js",
-    "static/media/71V2kcwFEGL.jpg": "/spreethi01/test.git/static/media/71V2kcwFEGL.7845d596234ef12e4de9.jpg",
-    "static/media/choco-pie-ads-splashing-chocolate-600nw-1660903636.webp": "/spreethi01/test.git/static/media/choco-pie-ads-splashing-chocolate-600nw-1660903636.be4176f9f5face8b7bdc.webp",
-    "static/media/chocolate-popcorn-ad-pouring-liquid-260nw-1812086089.webp": "/spreethi01/test.git/static/media/chocolate-popcorn-ad-pouring-liquid-260nw-1812086089.ae60fd8b2fb43f5d08de.webp",
-    "static/media/THUMB-1-360x180.jpeg": "/spreethi01/test.git/static/media/THUMB-1-360x180.3bcea71605514bab8de5.jpeg",
-    "index.html": "/spreethi01/test.git/index.html",
-    "main.38f567a4.css.map": "/spreethi01/test.git/static/css/main.38f567a4.css.map",
-    "main.f472b7ac.js.map": "/spreethi01/test.git/static/js/main.f472b7ac.js.map"
+    "main.css": "/test/static/css/main.38f567a4.css",
+    "main.js": "/test/static/js/main.ff8613ea.js",
+    "static/media/71V2kcwFEGL.jpg": "/test/static/media/71V2kcwFEGL.7845d596234ef12e4de9.jpg",
+    "static/media/choco-pie-ads-splashing-chocolate-600nw-1660903636.webp": "/test/static/media/choco-pie-ads-splashing-chocolate-600nw-1660903636.be4176f9f5face8b7bdc.webp",
+    "static/media/chocolate-popcorn-ad-pouring-liquid-260nw-1812086089.webp": "/test/static/media/chocolate-popcorn-ad-pouring-liquid-260nw-1812086089.ae60fd8b2fb43f5d08de.webp",
+    "static/media/THUMB-1-360x180.jpeg": "/test/static/media/THUMB-1-360x180.3bcea71605514bab8de5.jpeg",
+    "index.html": "/test/index.html",
+    "main.38f567a4.css.map": "/test/static/css/main.38f567a4.css.map",
+    "main.ff8613ea.js.map": "/test/static/js/main.ff8613ea.js.map"
   },
   "entrypoints": [
     "static/css/main.38f567a4.css",
-    "static/js/main.f472b7ac.js"
+    "static/js/main.ff8613ea.js"
   ]
 }
