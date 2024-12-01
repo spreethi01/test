@@ -15,12 +15,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "obfuscate": "javascript-obfuscator build/static/js --output build/static/js-obfuscated --compact true --self-defending true",
+    "obfuscate": "javascript-obfuscator build/static/js --output build/static/js --compact true --self-defending true",
     "deploy": "npm run obfuscate && gh-pages -d build"
   },
   "eslintConfig": {
