@@ -15,9 +15,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "react-scripts build",
-    "obfuscate": "javascript-obfuscator build/static/js --output build/static/js --compact true --self-defending true",
-    "deploy": "npm run obfuscate && gh-pages -d build"
+    "predeploy": "GENERATE_SOURCEMAP=false npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
